@@ -33,4 +33,6 @@ When I tried to manually add a user, I encountered a policy restriction error. T
 ![Error Message](error.png)
 
 ## Conclusion
-This project demonstrates my proficiency in **Azure Administration** and **Identity Governance**, skills I am currently applying in my role at **Greenwall Companies**.
+This project highlights the efficiency of Cloud Identity Management over traditional, manual methods. By implementing Dynamic Membership Rules, I demonstrated how to enforce organizational policies automatically, ensuring that user access remains accurate and secure as employees change roles or locations.
+
+The troubleshooting phase of this project was particularly valuable. It confirmed that the Microsoft Entra ID policy engine was successfully preventing manual overrides, which is a core security feature in enterprise environments. These technical skills are central to my ongoing work as an IT & Project Coordinator and my preparation for the AZ-104 certification.
